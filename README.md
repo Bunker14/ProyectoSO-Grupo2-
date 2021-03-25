@@ -2,7 +2,7 @@
 
 Manager v1: Arnau
 
-Revisador v1: Arnau
+Revisador v1: Marc, Bryan
 
 Comunicador v1: Arnau
 
